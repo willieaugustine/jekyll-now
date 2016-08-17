@@ -1,6 +1,6 @@
 ---
 layout: post
-title:datatypes
+title: Data Types
 ---
 
 #Abstraction
