@@ -1,6 +1,6 @@
 ---
 layout: post
-title: systems
+title: Systems
 ---
 
 <p>This is how systems work</p>
