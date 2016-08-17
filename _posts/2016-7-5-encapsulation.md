@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Encapsulation
+title: ENCAPSULATION
 ---
 
   #ENCAPSULATION
